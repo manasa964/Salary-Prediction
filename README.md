@@ -28,4 +28,4 @@ The project typically involves the following steps:
    
 Overall, a salary prediction project is a valuable tool for organizations
 to help them make informed decisions about compensation and ensure they
-are offering competitive salaries that attract and retain top talent.
+are offering competitive salaries that attract and retain top talent. 
